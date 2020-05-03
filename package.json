@@ -34,7 +34,7 @@
     "redux": "^3.7.2",
     "style-loader": "^0.20.3",
     "webpack": "^3.12.0",
-    "webpack-dev-server": "^2.11.5",
+    "webpack-dev-server": "^3.1.11",
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
